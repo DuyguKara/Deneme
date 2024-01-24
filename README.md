@@ -22,3 +22,6 @@ Assert: Using the Assert.IsInstanceOfType method, it is verified whether the res
 
 The main purpose of this test is to verify whether the Index method returns the expected type of result. When a result of type ViewResult is received, this usually indicates that the controller method returned an HTML view.
 
+## Pdf File
+You can see what the entire software engineering process requires for this project in the pdf file. There, the methodologies used, requirements analysis, models and more are specified.
+
