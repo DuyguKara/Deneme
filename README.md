@@ -8,3 +8,6 @@
  In summary, this project retrieves content from the database and this data is used to customize and make dynamic the desired areas of a website. Model view controller architecture was used in the project.
  I used microsoft sql server as database.
 
+ ## Description of web-site
+ This site is a simple music site. It retrieves content related to the music offered to customers from the database. The customer can listen to the music he wants on the site, if she/he wants to buy it, she/he adds it to her/his cart and proceeds with the payment process. If the payment process is successful, the music can be downloaded.
+
